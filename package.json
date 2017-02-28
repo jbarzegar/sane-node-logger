@@ -1,6 +1,6 @@
 {
   "name": "sane-node-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small sane node js logger",
   "license": "MIT",
   "main": "logger.js",

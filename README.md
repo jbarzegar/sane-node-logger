@@ -5,7 +5,7 @@ A simple logger using chalk + moment for timestamps
 ## Usage
 
 ```javascript
-const logger = require('logger')
+const logger = require('sane-node-logger')
 
 /* returns [<timestamp>] <text> */
 
