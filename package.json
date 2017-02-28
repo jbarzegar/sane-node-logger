@@ -1,0 +1,31 @@
+{
+  "name": "sane-node-logger",
+  "version": "1.0.0",
+  "description": "A small sane node js logger",
+  "license": "MIT",
+  "main": "logger.js",
+  "repository": "https://github.com/jbarzegar/sane-node-logger",
+  "engines": {
+    "node": ">=6"
+  },
+  "author": {
+    "name": "James Barzegar",
+    "email": "james.barzegar@gmail.com",
+    "url": "jamesbarzegar.com"
+  },
+  "keywords": [
+    "helper",
+    "logger",
+    "logging"
+  ],
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.2",
+    "eslint-plugin-standard": "^2.0.1"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "moment": "^2.17.1"
+  }
+}
